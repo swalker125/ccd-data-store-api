@@ -257,7 +257,10 @@ dependencies {
     compile 'org.jooq:jool-java-8:0.9.14'
     
     testCompile group: 'uk.gov.hmcts', name: 'ccd-api-test-automation-fw', version: '1.0.21-RDM7457.2'
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/heads/RDM-7457
 }
 // end::dependencies[]
 
